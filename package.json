@@ -1,0 +1,13 @@
+{
+  "name": "persistent_priority_queue_assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "module.js",
+  "scripts": {
+    "dev": "node module.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
